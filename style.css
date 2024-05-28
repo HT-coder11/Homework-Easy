@@ -1,0 +1,23 @@
+#h11{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#homework{
+    width: 350px;
+    height: 350px;
+}
+
+#fix{
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#fixeded{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: orange;
+}
